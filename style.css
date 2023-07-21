@@ -1,0 +1,41 @@
+.body{
+    background-color: rgb(251, 226, 194);
+}
+.pic{
+    height: 450px;
+    width: 500px;
+    margin-left: 90px;
+}
+.div1{
+    display: flex;
+    padding-top: 100px;
+}
+.name{
+    color: rgb(24, 255, 178);
+}
+.skills{
+    color: rgb(50, 253, 185);
+}
+.pic2{
+    height:260px;
+    width:430px;
+    margin-left:15px;
+}
+.about{
+    margin-top:80px;
+}
+.pic3{
+   padding-left: 500px;
+}
+.inpute1{
+    height: 60px;
+    width: 500px;
+}
+.map{
+    width:1140px;
+}
+.footer{
+    height: 90px;
+    background-color: rgb(18, 18, 18);
+    color:rgb(24, 255, 178);
+}
